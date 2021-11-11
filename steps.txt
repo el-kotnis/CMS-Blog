@@ -1,0 +1,3 @@
+init:
+1.npx create-next-app -e with-tailwindcss ./
+2.npm install graphql graphql-request html-react-parser moment react-multi-carousel sass
