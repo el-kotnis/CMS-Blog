@@ -6,3 +6,10 @@ code:
 commit 1:
 made changes to index.js in pages folder.
 created components folder.
+commit 2:
+create the categories, postcard and postwidget jsx files within components,
+create index.js for exporting the jsx files.
+add the jsx files to the main index.js
+create styles folder and in it globals.scss,
+add the code to it. add the background image to public folder.
+import the globals file in _app.js
