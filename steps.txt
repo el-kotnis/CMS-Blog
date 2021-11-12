@@ -13,3 +13,6 @@ add the jsx files to the main index.js
 create styles folder and in it globals.scss,
 add the code to it. add the background image to public folder.
 import the globals file in _app.js
+commit 3:
+create Header and Layout jsx files
+import Layout into _app.js
