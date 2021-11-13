@@ -32,4 +32,6 @@ make sure the copied query is indented properly
 in API Access in GraphCMS settings, click on Yes Initialize Defaults
 
 commit 5:
+add code for blog title,date, author name and avatar and other details in PostCard
+
 

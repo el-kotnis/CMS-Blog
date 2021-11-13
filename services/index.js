@@ -4,10 +4,11 @@ import {request,gql} from 'graphql-request'
 const graphqlAPI = process.env.NEXT_PUBLIC_GRAPHCMS_ENDPOINT;
 
 export const getPosts = async()=>{
-    const query=gql`
+    const query = gql`
         query MyQuery {
             postsConnection {
                 edges {
+                    cursor
                     node {
                         author {
                             bio
@@ -32,7 +33,8 @@ export const getPosts = async()=>{
                 }
             }
         }
-    `
+  `;
+
     //make the request
     const result = await request(graphqlAPI,query)
 
