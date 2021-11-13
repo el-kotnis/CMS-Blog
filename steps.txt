@@ -3,9 +3,11 @@ init:
 2.npm install graphql graphql-request html-react-parser moment react-multi-carousel sass
 3.npm run dev to start in localhost 3000
 code:
+
 commit 1:
 made changes to index.js in pages folder.
 created components folder.
+
 commit 2:
 create the categories, postcard and postwidget jsx files within components,
 create index.js for exporting the jsx files.
@@ -13,6 +15,21 @@ add the jsx files to the main index.js
 create styles folder and in it globals.scss,
 add the code to it. add the background image to public folder.
 import the globals file in _app.js
+
 commit 3:
 create Header and Layout jsx files
 import Layout into _app.js
+
+commit 4:
+create services folder. create index.js
+copy the query from the GraphCMS site after selecting the required data
+create the environment variable for making the API request
+paste it in the new env file, assign it with the env code from the GraphCMS site
+in the main index.js import getPosts from the services index.js
+create the getStaticProps async function in the main index
+to fetch the data from getPosts.
+make sure the copied query is indented properly
+in API Access in GraphCMS settings, click on Yes Initialize Defaults
+
+commit 5:
+
