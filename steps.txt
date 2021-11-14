@@ -33,5 +33,7 @@ in API Access in GraphCMS settings, click on Yes Initialize Defaults
 
 commit 5:
 add code for blog title,date, author name and avatar and other details in PostCard
+create getRecentPosts and getSimilarPosts in services index.js
 
+commit 6:
 
