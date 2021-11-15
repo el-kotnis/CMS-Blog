@@ -49,3 +49,4 @@ create 4 new jsx files in components.
 fixed the PostWidget issue
 
 commit 8:
+add the code for PostDetail
