@@ -41,4 +41,11 @@ fill out Categories.jsx to display the categories on the side
 still have to fix issue in PostWidget.jsx
 
 commit 7:
+add the code to fetch the categories to the Header.jsx
+create post folder in pages folder and within it [slug].js
+this is to render the site whenever a button linking a blog is pressed
+matching the blog to its slug.
+create 4 new jsx files in components.
+fixed the PostWidget issue
 
+commit 8:
