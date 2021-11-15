@@ -36,4 +36,9 @@ add code for blog title,date, author name and avatar and other details in PostCa
 create getRecentPosts and getSimilarPosts in services index.js
 
 commit 6:
+create getCategories in services and export to Categories.jsx
+fill out Categories.jsx to display the categories on the side
+still have to fix issue in PostWidget.jsx
+
+commit 7:
 
