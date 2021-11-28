@@ -54,3 +54,21 @@ add the code for PostDetail
 commit 9:
 add code for Author, for showing author's details
 on a post
+
+commit 10:
+add code for CommentForms, textareas for comments,
+name and email, and post comment button
+create handleCommentSubmission function
+create the submitComment function in services index.js
+to send http requests to our own next js backend
+rename hello.js in pages/api folder to comments.js,
+any file inside this folder is mapped to /api/ and 
+is treated as an API endpoint instead of a page
+create the new api endpoint in comments.js
+modify the pre existing code in it
+create a Permanent Auth Token in GraphCMS
+copy the token value and paste in .env
+this is for authenticating the graphql client
+import submitComment into CommentsForm and add more code
+
+commit 11:
