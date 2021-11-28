@@ -73,7 +73,6 @@ const PostDetail = ({post}) => {
                 })}
             </div>
         </div>
-
     )
 }
 

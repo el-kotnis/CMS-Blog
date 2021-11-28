@@ -50,3 +50,7 @@ fixed the PostWidget issue
 
 commit 8:
 add the code for PostDetail
+
+commit 9:
+add code for Author, for showing author's details
+on a post
