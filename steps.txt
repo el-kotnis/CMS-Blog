@@ -72,3 +72,8 @@ this is for authenticating the graphql client
 import submitComment into CommentsForm and add more code
 
 commit 11:
+add the code for the useEffect in CommentsForm
+in graphcms, create a reference between Post and Comment
+as multiple comments per post
+
+commit 12:
