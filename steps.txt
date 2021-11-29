@@ -89,3 +89,5 @@ create getFeaturedPosts and getAdjacentPosts functions in services/index.js
 create the category folder in pages, and within it
 [slug].js
 create the Loader.jsx in components
+
+then deploy in vercel.com
