@@ -79,3 +79,13 @@ as multiple comments per post
 commit 12:
 add code for Comments.jsx
 create the getComments function in services/index.js
+
+commit 13:
+create the sections folder
+create FeaturedPosts.jsx and AdjacentPosts.jsx in it
+and in components FeaturedPostCard.jsx and AdjacentPostCard.jsx
+add those exports to the respective index.js of those folders
+create getFeaturedPosts and getAdjacentPosts functions in services/index.js
+create the category folder in pages, and within it
+[slug].js
+create the Loader.jsx in components
