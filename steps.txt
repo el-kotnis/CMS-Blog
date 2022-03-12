@@ -91,3 +91,6 @@ create the category folder in pages, and within it
 create the Loader.jsx in components
 
 then deploy in vercel.com
+
+commit 14:
+error in Header.js, 'next/Link' corrected to 'next/link' during the import
